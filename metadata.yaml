@@ -1,0 +1,25 @@
+_repo: The-Yellow-Streak_9974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Valentine
+    alias: Valentine, Douglas
+    birthdate: 1883
+    deathdate: 1946
+    gutenberg_agent_id: '904'
+    url: http://www.gutenberg.org/2009/agents/904
+description: Cover -- Contents.
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: The Yellow Streak
+url: http://www.gutenberg.org/ebooks/9974
